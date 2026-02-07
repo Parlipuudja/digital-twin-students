@@ -42,4 +42,4 @@ Currently in the specification and planning phase. The SOUL and SPECS documents 
 
 ## What I Learned
 
-- TODO
+- The project is TBC, this section will be filled later
